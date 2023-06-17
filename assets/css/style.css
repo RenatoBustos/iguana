@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+.marco {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+.marco img{
+    width: 100%;
+}
+.intro {
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center; 
+}
+.introtxt {
+    font-weight: 300;
+    text-align: justify;
+    width: 40%;
+}
+.introimg {
+    width: 40%;
+}
+.medio {
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 500;
+    background-color: rgba(83, 72, 72, 0.326);
+}
+.icon {
+    display: flex;
+    justify-content: center;
+}
+.iconhijo {
+    font-weight: 300;
+    text-align: center;
+    font-size: 35px;
+    width: 20%;
+}
+.iguanapadre {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3%;;
+}
+.hijo img {
+    height: 300px;
+    width: 200px;
+    width: 95%;
+}
+.pie {
+    text-align: center;
+    font-weight: 300;
+    background-color: rgba(83, 72, 72, 0.326);
+    padding: 2%;
+}
+.pie a {
+    color: white;
+    text-decoration: none;
+}
